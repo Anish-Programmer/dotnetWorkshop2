@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\DotNET\\workshop\\Anish-Programmer\\dotnetWorkshop2\\ConsoleApp1\\ConsoleApp.csproj",
-      "projectName": "ConsoleApp",
-      "projectPath": "F:\\DotNET\\workshop\\Anish-Programmer\\dotnetWorkshop2\\ConsoleApp1\\ConsoleApp.csproj",
+      "projectUniqueName": "F:\\DotNET\\workshop\\Anish-Programmer\\dotnetWorkshop2\\Task1\\Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "F:\\DotNET\\workshop\\Anish-Programmer\\dotnetWorkshop2\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\Anish\\.nuget\\packages\\",
-      "outputPath": "F:\\DotNET\\workshop\\Anish-Programmer\\dotnetWorkshop2\\ConsoleApp1\\obj\\",
+      "outputPath": "F:\\DotNET\\workshop\\Anish-Programmer\\dotnetWorkshop2\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
