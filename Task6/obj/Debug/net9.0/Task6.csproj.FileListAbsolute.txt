@@ -1,0 +1,15 @@
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\bin\Debug\net9.0\Task6.exe
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\bin\Debug\net9.0\Task6.deps.json
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\bin\Debug\net9.0\Task6.runtimeconfig.json
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\bin\Debug\net9.0\Task6.dll
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\bin\Debug\net9.0\Task6.pdb
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\obj\Debug\net9.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\obj\Debug\net9.0\Task6.AssemblyInfoInputs.cache
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\obj\Debug\net9.0\Task6.AssemblyInfo.cs
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\obj\Debug\net9.0\Task6.csproj.CoreCompileInputs.cache
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\obj\Debug\net9.0\Task6.sourcelink.json
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\obj\Debug\net9.0\Task6.dll
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\obj\Debug\net9.0\refint\Task6.dll
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\obj\Debug\net9.0\Task6.pdb
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\obj\Debug\net9.0\Task6.genruntimeconfig.cache
+F:\DotNET\workshop\Anish-Programmer\dotnetWorkshop2\Task6\obj\Debug\net9.0\ref\Task6.dll
