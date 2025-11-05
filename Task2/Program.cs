@@ -30,7 +30,7 @@ class Program
     static void Main()
     {
         // Try modifying the value of PI
-        // Circle.PI = 3.1416; // ❌ This line will cause a compilation error
+        // Circle.PI = 3.1416; // This line will cause a compilation error
 
         /*
          * ERROR:
