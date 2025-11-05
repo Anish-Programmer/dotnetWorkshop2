@@ -1,0 +1,5 @@
+string userName = "Anish Tamang";
+
+int luckyNumber = 7;
+
+console.writeLine($"Hello, {userName}! Your lucky nuber is ${luckyNumber}");
