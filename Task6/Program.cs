@@ -1,8 +1,10 @@
-﻿// 1. Create a List<string> with 3 favorite fruits
-List<string> fruits = new List<string>() { "Mango", "Apple", "Banana" };
+﻿//Generic Collections(List and Dictionary)
+
+// 1. Create a List<string> with 3 favorite fruits
+List<string> fruits = new List<string>() { "Apple", "Orange", "Coconut" };
 
 // 2. Add a new fruit
-fruits.Add("Orange");
+fruits.Add("Mango");
 
 // 3. Remove one fruit
 fruits.Remove("Apple");
